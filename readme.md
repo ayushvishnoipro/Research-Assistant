@@ -54,6 +54,8 @@ Run the research assistant:
 ```bash
 python main.py
 ```
+![WhatsApp Image 2025-03-16 at 03 54 45_8134f77f](https://github.com/user-attachments/assets/7dd83734-52e1-4e09-880f-383f9d29a028)
+
 
 ### How It Works
 1. The agent prompts you for a research topic.
